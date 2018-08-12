@@ -1,5 +1,5 @@
 $( document ).ready(function() {
-
+  console.log('HI NONI!!');
   const config = {
     apiKey: "AIzaSyCKfCOvaD8DxFT1TXYMYF6q56FeHVGOx0k",
     authDomain: "feels-a8f40.firebaseapp.com",
